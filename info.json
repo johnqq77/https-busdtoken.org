@@ -1,0 +1,13 @@
+{
+  "name": "BUSD-T Token",
+  "symbol": "BUSD",
+  "decimals": 18,
+  "description": "BUSD-T is a decentralized stablecoin pegged 1:1 to the US Dollar on Binance Smart Chain. It supports fast transactions and donates a portion of profits to children's education.",
+  "website": "https://busdt.foundation",
+  "social": {
+    "twitter": "@busdtoken",
+    "email": "impact@busdt.foundation"
+  },
+  "chain": "BSC",
+  "contract": "0x62e4741f3bB9Aa3780fc3A259C8049eD43D4E57F"
+}
