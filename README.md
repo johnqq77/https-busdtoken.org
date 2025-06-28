@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>BUSD-T Token | Bridging Value and Vision</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Helvetica Neue', sans-serif;
+      background: linear-gradient(to right, #fffde7, #fff9c4);
+      color: #333;
+    }
+    header {
+      background: linear-gradient(to right, #fbc02d, #f57f17);
+      color: white;
+      padding: 50px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 3em;
+    }
+    header p {
+      font-size: 1.2em;
+      margin-top: 10px;
+    }
+    section {
+      max-width: 1000px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+    .card {
+      background: #fff;
+      border-radius: 15px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+      padding: 30px;
+      margin-bottom: 30px;
+    }
+    h2 {
+      color: #f57f17;
+      margin-top: 0;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .impact {
+      background: #fff3e0;
+      border-left: 6px solid #ff9800;
+      padding: 15px;
+      font-weight: bold;
+      font-size: 1.1em;
+    }
+    footer {
+      background: #f57f17;
+      color: white;
+      text-align: center;
+      padding: 20px 10px;
+      font-size: 0.9em;
+    }
+    .contract {
+      font-size: 0.95em;
+      color: #555;
+      margin-top: 10px;
+      word-break: break-word;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>BUSD-T Token</h1>
+    <p>Backed by the USD, Powered by Purpose</p>
+    <p class="contract"><strong>Contract:</strong> 0x62e4741f3bB9Aa3780fc3A259C8049eD43D4E57F</p>
+  </header>
+
+  <section>
+    <div class="card">
+      <h2>What is BUSD-T?</h2>
+      <p><strong>BUSD-T</strong> is a decentralized stablecoin pegged 1:1 with the US Dollar, built on the Binance Smart Chain. Designed for reliability, low-cost transfers, and global interoperability, BUSD-T empowers users to transact with confidence—without volatility, without borders.</p>
+    </div>
+
+    <div class="card">
+      <h2>Key Features</h2>
+      <ul>
+        <li>✅ Pegged 1:1 to the US Dollar</li>
+        <li>✅ Fast, secure transactions on BSC</li>
+        <li>✅ Transparent and auditable contract</li>
+        <li>✅ Designed for trading, saving, and settlement</li>
+        <li>✅ Fully compatible with Trust Wallet, MetaMask, Binance Wallet, and more</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>Giving Back: Token with a Heart</h2>
+      <p>
+        BUSD-T isn't just a financial tool—it's a mission. We dedicate a portion of all proceeds from transactions and token operations to help underprivileged children receive access to quality education.
+      </p>
+      <div class="impact">
+        ❤️ 5% of net earnings go directly to funding school supplies, scholarships, and tuition grants for children in need.
+      </div>
+    </div>
+
+    <div class="card">
+      <h2>Your Role in the Movement</h2>
+      <p>
+        By holding or transacting with BUSD-T, you’re not only benefiting from a trusted stablecoin—you’re helping shape the future of young lives around the world.
+      </p>
+      <p>
+        Join our community of givers, dreamers, and change-makers. One token at a time.
+      </p>
+    </div>
+  </section>
+
+  <footer>
+    © 2025 BUSD-T Token Initiative<br>
+    For education donations, partnership, and transparency: <strong>impact@busdt.foundation</strong>
+  </footer>
+
+</body>
+</html>
